@@ -14,7 +14,7 @@ A job listing platform built with React, Vite and React Router, designed to mana
 
 ## Demo
 
-You can view a live demo of the app [here](#).
+You can view a live demo of the app [here](https://react-job-site.vercel.app/).
 
 ## Installation
 
