@@ -1,20 +1,21 @@
-import React from 'react'
-import { Link } from 'react-router-dom'
-import { FaExclamationTriangle } from 'react-icons/fa'
+import React from 'react';
+import { Link } from 'react-router-dom';
+import { FaExclamationTriangle } from 'react-icons/fa';
 
 const _404 = () => {
   return (
     <section className="text-center flex flex-col justify-center items-center h-96">
-      <FaExclamationTriangle className='text-yellow-400 text-6xl mb-4'/>
-      <h1 className="text-6xl font-bold mb-4">404 Not Found</h1>
-      <p className="text-xl mb-5">This page does not exist</p>
+      <FaExclamationTriangle className='text-amber-500 text-6xl mb-4'/>
+      <h1 className="text-6xl font-bold text-gray-800 mb-4">404 Not Found</h1>
+      <p className="text-xl text-gray-600 mb-5">This page does not exist</p>
       <Link
         to="/"
-        className="text-white bg-indigo-700 hover:bg-indigo-900 rounded-md px-3 py-2 mt-4"
-        >Go Back</Link
+        className="text-white bg-gray-800 hover:bg-gray-700 rounded-md px-4 py-2 mt-4 transition-colors duration-300"
       >
+        Go Back
+      </Link>
     </section>
-  )
-}
+  );
+};
 
-export default _404
+export default _404;
