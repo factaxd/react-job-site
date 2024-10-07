@@ -25,10 +25,4 @@ To get started with the project locally, follow the steps below:
 - Node.js installed on your machine
 - npm (Node Package Manager) or yarn
 
-### Getting Started
-
-1. **Clone the repository**
-
-   ```bash
-   git clone https://github.com/your-username/job-listings-platform.git
-   cd job-listings-platform
+### Screenshots
