@@ -26,3 +26,7 @@ To get started with the project locally, follow the steps below:
 - npm (Node Package Manager) or yarn
 
 ### Screenshots
+![Ekran görüntüsü 2024-10-07 194657](https://github.com/user-attachments/assets/2b6e6899-fa87-4481-9662-ffab8b5e9463)
+![Ekran görüntüsü 2024-10-07 194651](https://github.com/user-attachments/assets/3ab80060-3870-4268-9bc8-1b1b27008968)
+
+
